@@ -1,0 +1,6 @@
+D:\Eigene Dateien\Projekte\Cockpit\Software\SerialPort_ButtonBox\ButtonBoxSerialPort\SerialPortButtonBox\bin\Debug\SerialPortButtonBox.dll
+D:\Eigene Dateien\Projekte\Cockpit\Software\SerialPort_ButtonBox\ButtonBoxSerialPort\SerialPortButtonBox\bin\Debug\SerialPortButtonBox.pdb
+D:\Eigene Dateien\Projekte\Cockpit\Software\SerialPort_ButtonBox\ButtonBoxSerialPort\SerialPortButtonBox\obj\Debug\SerialPortButtonBox.csprojAssemblyReference.cache
+D:\Eigene Dateien\Projekte\Cockpit\Software\SerialPort_ButtonBox\ButtonBoxSerialPort\SerialPortButtonBox\obj\Debug\SerialPortButtonBox.csproj.CoreCompileInputs.cache
+D:\Eigene Dateien\Projekte\Cockpit\Software\SerialPort_ButtonBox\ButtonBoxSerialPort\SerialPortButtonBox\obj\Debug\SerialPortButtonBox.dll
+D:\Eigene Dateien\Projekte\Cockpit\Software\SerialPort_ButtonBox\ButtonBoxSerialPort\SerialPortButtonBox\obj\Debug\SerialPortButtonBox.pdb

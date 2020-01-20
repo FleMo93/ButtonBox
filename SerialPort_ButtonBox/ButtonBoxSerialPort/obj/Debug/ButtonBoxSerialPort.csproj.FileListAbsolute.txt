@@ -1,0 +1,12 @@
+D:\Eigene Dateien\Projekte\Cockpit\Software\SerialPort_ButtonBox\ButtonBoxSerialPort\ButtonBoxSerialPort\bin\Debug\ButtonBoxSerialPort.exe.config
+D:\Eigene Dateien\Projekte\Cockpit\Software\SerialPort_ButtonBox\ButtonBoxSerialPort\ButtonBoxSerialPort\bin\Debug\ButtonBoxSerialPort.exe
+D:\Eigene Dateien\Projekte\Cockpit\Software\SerialPort_ButtonBox\ButtonBoxSerialPort\ButtonBoxSerialPort\bin\Debug\ButtonBoxSerialPort.pdb
+D:\Eigene Dateien\Projekte\Cockpit\Software\SerialPort_ButtonBox\ButtonBoxSerialPort\ButtonBoxSerialPort\obj\Debug\ButtonBoxSerialPort.csprojAssemblyReference.cache
+D:\Eigene Dateien\Projekte\Cockpit\Software\SerialPort_ButtonBox\ButtonBoxSerialPort\ButtonBoxSerialPort\obj\Debug\ButtonBoxSerialPort.csproj.CoreCompileInputs.cache
+D:\Eigene Dateien\Projekte\Cockpit\Software\SerialPort_ButtonBox\ButtonBoxSerialPort\ButtonBoxSerialPort\obj\Debug\ButtonBoxSerialPort.exe
+D:\Eigene Dateien\Projekte\Cockpit\Software\SerialPort_ButtonBox\ButtonBoxSerialPort\ButtonBoxSerialPort\obj\Debug\ButtonBoxSerialPort.pdb
+D:\Eigene Dateien\Projekte\Cockpit\Software\SerialPort_ButtonBox\ButtonBoxSerialPort\ButtonBoxSerialPort\bin\Debug\WindowsInput.dll
+D:\Eigene Dateien\Projekte\Cockpit\Software\SerialPort_ButtonBox\ButtonBoxSerialPort\ButtonBoxSerialPort\bin\Debug\WindowsInput.xml
+D:\Eigene Dateien\Projekte\Cockpit\Software\SerialPort_ButtonBox\ButtonBoxSerialPort\ButtonBoxSerialPort\obj\Debug\ButtonBoxSerialPort.csproj.CopyComplete
+D:\Eigene Dateien\Projekte\Cockpit\Software\SerialPort_ButtonBox\ButtonBoxSerialPort\ButtonBoxSerialPort\bin\Debug\SerialPortButtonBox.dll
+D:\Eigene Dateien\Projekte\Cockpit\Software\SerialPort_ButtonBox\ButtonBoxSerialPort\ButtonBoxSerialPort\bin\Debug\SerialPortButtonBox.pdb
